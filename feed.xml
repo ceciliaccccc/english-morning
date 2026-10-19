@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>单畅的英语晨读</title>
+    <link>https://ceciliaccccc.github.io/english-morning</link>
+    <description>每个工作日早上8:30，PM 视角的实用英语：商务对话、地道表达、中英对照。通勤磨耳朵专用。</description>
+    <language>zh-cn</language>
+    <atom:link href="https://ceciliaccccc.github.io/english-morning/feed.xml" rel="self" type="application/rss+xml"/>
+    <itunes:author>Cecilia Shan</itunes:author>
+    <itunes:owner>
+      <itunes:name>Cecilia Shan</itunes:name>
+      <itunes:email>shanchang@meituan.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Education"/>
+    <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>第2期 | 向上汇报与周会进度更新</title>
+      <description>五个新词：deliverable / bandwidth / escalate / milestone / prioritize。四个表达：on track 与 at risk、loop in、give a heads-up、follow up。含完整对话与中文讲解。</description>
+      <guid isPermaLink="false">https://ceciliaccccc.github.io/english-morning/ep/2-2026-10-19</guid>
+      <pubDate>Mon, 19 Oct 2026 09:00:00 +0800</pubDate>
+      <enclosure url="https://ceciliaccccc.github.io/english-morning/audio/2026-10-19-ep2.mp3" length="2004192" type="audio/mpeg"/>
+      <itunes:duration>5:34</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+    </item>
+  </channel>
+</rss>
