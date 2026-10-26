@@ -14,6 +14,15 @@
     <itunes:category text="Education"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>第7期 | PRD 撰写与文档评审</title>
+      <description>工作英语篇：写出研发零提问的 PRD（慢速跟读版）。五个新词：specification / rationale / assumption / ambiguity / criteria。五个表达：acceptance criteria / cover the edge cases / spell it out / sign off on / get into the weeds。含 PRD 预沟通完整对话与中文讲解。</description>
+      <guid isPermaLink="false">https://ceciliaccccc.github.io/english-morning/ep/7-2026-10-26</guid>
+      <pubDate>Mon, 26 Oct 2026 09:00:00 +0800</pubDate>
+      <enclosure url="https://ceciliaccccc.github.io/english-morning/audio/2026-10-26-ep7.mp3" length="6950304" type="audio/mpeg"/>
+      <itunes:duration>19:18</itunes:duration>
+      <itunes:episode>7</itunes:episode>
+    </item>
+    <item>
       <title>第6期 | 项目排期与跨团队协作</title>
       <description>工作英语篇：PM 与研发的排期对齐（慢速跟读版）。五个新词：estimate / buffer / trade-off / bottleneck / fallback。五个表达：What&#x27;s the ETA / must-have vs nice-to-have（de-scope）/ front-load the work / build in a buffer / take it offline。含排期沟通完整对话与中文讲解。</description>
       <guid isPermaLink="false">https://ceciliaccccc.github.io/english-morning/ep/6-2026-10-23</guid>
