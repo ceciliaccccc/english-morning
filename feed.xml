@@ -14,6 +14,15 @@
     <itunes:category text="Education"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>第11期 | 与研发对齐技术方案</title>
+      <description>工作英语·技术评审场景：feasible / refactor / deploy / rollback / latency；重点表达 under the hood、tech debt、band-aid fix、quick win、ship it；PM 与后端研发对齐搜索优化方案的双人对话。</description>
+      <guid isPermaLink="false">https://ceciliaccccc.github.io/english-morning/ep/11-2026-10-30</guid>
+      <pubDate>Fri, 30 Oct 2026 09:00:00 +0800</pubDate>
+      <enclosure url="https://ceciliaccccc.github.io/english-morning/audio/2026-10-30-ep11.mp3" length="6764976" type="audio/mpeg"/>
+      <itunes:duration>18:47</itunes:duration>
+      <itunes:episode>11</itunes:episode>
+    </item>
+    <item>
       <title>第10期 | 机场值机与安检</title>
       <description>生活英语·出行场景：carry-on / boarding pass / layover / aisle / baggage claim；重点表达 make my flight、cutting it close、step aside、random selection；值机柜台+安检全流程情景对话。</description>
       <guid isPermaLink="false">https://ceciliaccccc.github.io/english-morning/ep/10-2026-10-29</guid>
