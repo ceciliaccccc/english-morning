@@ -14,6 +14,15 @@
     <itunes:category text="Education"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>第12期 | 应对需求变更与业务方拉扯</title>
+      <description>本期学职场谈判高频词：stakeholder / pushback / compromise / justify / buy-in，以及 make the case for、meet halfway、get someone on board、bottom line、fair point 五个表达，通过 PM 与业务方的需求拉扯对话掌握有理有据谈折中的说法。</description>
+      <guid isPermaLink="false">https://ceciliaccccc.github.io/english-morning/ep/12-2026-11-02</guid>
+      <pubDate>Mon, 02 Nov 2026 09:00:00 +0800</pubDate>
+      <enclosure url="https://ceciliaccccc.github.io/english-morning/audio/2026-11-02-ep12.mp3" length="7271136" type="audio/mpeg"/>
+      <itunes:duration>20:11</itunes:duration>
+      <itunes:episode>12</itunes:episode>
+    </item>
+    <item>
       <title>第11期 | 与研发对齐技术方案</title>
       <description>工作英语·技术评审场景：feasible / refactor / deploy / rollback / latency；重点表达 under the hood、tech debt、band-aid fix、quick win、ship it；PM 与后端研发对齐搜索优化方案的双人对话。</description>
       <guid isPermaLink="false">https://ceciliaccccc.github.io/english-morning/ep/11-2026-10-30</guid>
