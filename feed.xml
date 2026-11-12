@@ -14,6 +14,15 @@
     <itunes:category text="Education"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>第19期 | Small Talk 闲聊破冰</title>
+      <description>日常口语：和邻居/熟人寒暄的地道表达——It&#x27;s been ages、Can&#x27;t complain、What about you、I&#x27;m hooked、Anyway I should get going；新词 chitchat/icebreaker/rapport/acquaintance/awkward</description>
+      <guid isPermaLink="false">https://ceciliaccccc.github.io/english-morning/ep/19-2026-11-12</guid>
+      <pubDate>Thu, 12 Nov 2026 09:00:00 +0800</pubDate>
+      <enclosure url="https://ceciliaccccc.github.io/english-morning/audio/2026-11-12-ep19.mp3" length="5621472" type="audio/mpeg"/>
+      <itunes:duration>15:36</itunes:duration>
+      <itunes:episode>19</itunes:episode>
+    </item>
+    <item>
       <title>第18期 | A/B实验评审</title>
       <description>A/B Test Review 工作英语：hypothesis / variant / metric / significant / lift；表达：the control group, move the needle, roll out, the results were flat, low-hanging fruit</description>
       <guid isPermaLink="false">https://ceciliaccccc.github.io/english-morning/ep/18-2026-11-11</guid>
