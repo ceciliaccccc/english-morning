@@ -14,6 +14,15 @@
     <itunes:category text="Education"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>第22期 | 产品上线与发布检查</title>
+      <description>工作英语：launch / readiness / contingency / coordinate / announcement；重点表达 go/no-go decision、dry run、ahead of schedule、stay on top of、the final green light；复习第21期 instrumentation 与 sanity check。</description>
+      <guid isPermaLink="false">https://ceciliaccccc.github.io/english-morning/ep/22-2026-11-18</guid>
+      <pubDate>Wed, 18 Nov 2026 09:00:00 +0800</pubDate>
+      <enclosure url="https://ceciliaccccc.github.io/english-morning/audio/2026-11-18-ep22.mp3" length="6253632" type="audio/mpeg"/>
+      <itunes:duration>17:22</itunes:duration>
+      <itunes:episode>22</itunes:episode>
+    </item>
+    <item>
       <title>第21期 | 埋点需求与数据验证（Event Tracking &amp; Data Validation）</title>
       <description>工作英语：instrumentation / trigger / funnel / verify / QA 五词，重点表达 log an event、sanity check、The numbers don&#x27;t add up、drill down into、backfill，附产品经理与数据研发的上线前对齐对话；周一复习第20期 up to speed / take ownership of。</description>
       <guid isPermaLink="false">https://ceciliaccccc.github.io/english-morning/ep/21-2026-11-16</guid>
